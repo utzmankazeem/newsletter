@@ -1,11 +1,5 @@
 # newsletterApp
 
-# npm install
-run npm install to install all dependencies
-
-# npm start
-npm start to run app
-
 # A Newsletter 
 
 A Newsletter sign up web application The App is designed for users to signup to a newsletter mail delivery service. 
@@ -19,6 +13,14 @@ The App returns a success or failure page after signup.
 # Usability
 
 Users know the status of their sign-up request with either a success or faliure response page.
+
+# npm install
+
+run npm install to install all dependencies
+
+# npm start
+
+run npm start to launch app
 
 #API 
 #Mailchimp 
